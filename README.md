@@ -1,4 +1,4 @@
-## Hi there. I'm Lutfullah...👋
+## Hi there. I'm Hasan Furkan...👋
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
@@ -6,12 +6,12 @@
 
 ## 👨👩 Social
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lutfullah-celenk/)
-[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/15324523/lutfullah-celenk)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:lutfullahclnk1104@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@lutfullahcelenk)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-furkan-koprulu/)
+[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/15763253/krnsoo)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hsnfrkn32@gmail.con)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hsnfrkn32)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfullahcelenk" alt="lutfullahcelenk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-furkan" alt="hasan-furkan" /> </p>
 
 ## 💻 Frontend
 
