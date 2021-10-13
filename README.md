@@ -46,4 +46,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hasan-furkan&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-furkan&theme=buefy&" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-furkan&theme=buefy &layout=compact" alt="languages" width="49%" > 
-<img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="React Gif" width="49%" /> </p>
+<img src="https://www.aalpha.net/wp-content/uploads/2021/02/reactjs-framework.gif" alt="React Gif" width="49%" /> </p>
