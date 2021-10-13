@@ -1,7 +1,7 @@
 ## Hi there. I'm Hasan Furkan...👋
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
-- 🌱 I’m currently learning backend development (Django) <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="React Gif" width="49%" />
+- 🌱 I’m currently learning backend development (Django) 
 - 💬 Ask me about anything that you want to learn
 
 
@@ -10,7 +10,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hsnfrkn32@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hsnfrkn32)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-furkan" alt="hasan-furkan" /> </p>
+<img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="React Gif" width="49%" />
 
 ## 💻 Frontend
 
