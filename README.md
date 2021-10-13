@@ -7,7 +7,7 @@
 </p>
 
 <p align="right">
-<img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" />
+<img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="React Gif" width="49%" />
 </p>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-furkan-koprulu/)
