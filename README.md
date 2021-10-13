@@ -1,7 +1,7 @@
 ## Hi there. I'm Hasan Furkan...👋
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native) <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="React Gif" width="49%" />
-- 🌱 I’m currently learning backend development (Django)
+- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
+- 🌱 I’m currently learning backend development (Django) <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="React Gif" width="49%" />
 - 💬 Ask me about anything that you want to learn
 
 
