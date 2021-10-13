@@ -45,5 +45,5 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=hasan-furkan&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-furkan&theme=buefy&" alt="my commit status" width="49%" /> </p>
-<p align="left" height="49%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-furkan&theme=buefy &layout=compact" alt="languages" width="49%" > 
-<img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" alt="React Gif" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-furkan&theme=buefy &layout=compact" alt="languages" width="49%" > 
+ </p>
