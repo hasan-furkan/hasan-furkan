@@ -10,7 +10,6 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hsnfrkn32@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hsnfrkn32)
 
-<img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="React Gif" width="49%" />
 
 ## 💻 Frontend
 
