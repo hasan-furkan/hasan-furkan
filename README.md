@@ -10,7 +10,8 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hsnfrkn32)
 
 
-https://miro.medium.com/max/1400/1*EzGIGRv3dbK32jaohq7xSQ.gif
+![1_EzGIGRv3dbK32jaohq7xSQ](https://user-images.githubusercontent.com/81443587/171872730-c4d99719-bedd-46d3-ba55-55602c6430ee.gif)
+
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=hasan-furkan&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
