@@ -1,7 +1,6 @@
 ## Hi there. I'm Hasan Furkan...👋
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
-- 🌱 I’m currently learning backend development (Django) 
+- 🔭 I’m currently working on mobile app development (Kotlin | Flutter | React Native)
 - 💬 Ask me about anything that you want to learn 
 
 
@@ -11,6 +10,7 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hsnfrkn32)
 
 
+https://miro.medium.com/max/1400/1*EzGIGRv3dbK32jaohq7xSQ.gif
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=hasan-furkan&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
