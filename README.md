@@ -1,6 +1,6 @@
 ## Hi there. I'm Hasan Furkan...👋
 
-- 🔭 I’m currently working on mobile app development (Kotlin | Flutter | React Native)
+- 🔭 I’m currently working on mobile app development (Kotlin | Flutter | React Native) 
 - 💬 Ask me about anything that you want to learn 
 
 
