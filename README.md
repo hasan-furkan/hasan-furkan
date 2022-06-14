@@ -13,7 +13,7 @@
 ![1_EzGIGRv3dbK32jaohq7xSQ](https://user-images.githubusercontent.com/81443587/171872730-c4d99719-bedd-46d3-ba55-55602c6430ee.gif)
 
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-furkan&theme=buefy&" alt="my commit status" width="49%" /> </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-furkan&theme=buefy &layout=compact" alt="languages" width="49%" > 
  </p>
