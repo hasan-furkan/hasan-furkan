@@ -10,4 +10,4 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hsnfrkn32)
 
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-furkan&langs_count=8" alt="languages" width="30%" > 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-furkan&langs_count=8" alt="languages" width="50%" > 
