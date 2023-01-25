@@ -1,7 +1,7 @@
 ## Hi there. I'm Hasan Furkan...👋
 
 - 🔭 I'm currently working on frontend and mobile app development (JavaScript | React)
-- 🌱 I'm currently learning backend development (Javascript(node.js) | Python(Django)) 
+- 🌱 I'm currently learning backend development (Node.js) 
 - 💬 Ask me about anything that you want to learn 
 
 
